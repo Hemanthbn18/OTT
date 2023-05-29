@@ -1,0 +1,320 @@
+/* <--------------Navbar css ------------> */
+  @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace+SC&display=swap');
+
+
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+   Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ;
+
+}
+/* ----------------Navbar css --------- */
+
+nav{
+  height: 60px;
+  width: 100vw;
+  color: white;
+  background-color: black;
+  padding: 20x 100px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0px;
+ z-index: 100;
+}
+#logo h1{
+  font-family: 'Bruno Ace SC', cursive;
+  font-size: 30px;
+  letter-spacing: 4px;
+  padding-left: 20px;
+}
+#logo  a{
+  color: white;
+  text-decoration: none;
+}
+#search-bar input{
+ width: 300px;
+ height: 35px;
+ border: solid 2px green;
+ padding-left: 20px;
+ border-radius: 5px;
+ font-size: 15px;
+ outline-color:green;
+ outline-style:none ;
+}
+#search-bar button{
+  width: 80px;
+ height: 35px;
+ border: solid 2px  black;
+ border-radius: 4px;
+
+}
+#search-bar button:hover{
+  transform: scale(1.03);
+}
+#add-movies a {
+  color: white;
+  font-size: 18px;
+  padding: 10px 20px;
+  text-decoration: none;
+border: solid 2px  black;
+ border-radius: 5px;
+ transition: 0.2s linear;
+}
+#add-movies :hover{
+color:rgb(6, 6, 63);
+background-color: white;
+border: solid 2px white;
+
+}
+#fav-movie a{
+  color: white;
+  font-size: 20px;
+  padding: 10px 20px;
+  text-decoration: none;
+border: solid 2px  black;
+ border-radius: 5px;
+ transition: 0.2s linear
+}
+#fav-movie a:hover{
+  color:rgb(6, 6, 63);
+background-color: white;
+border: solid 2px white;
+}
+/* <--------------Home css ------------> */
+
+.home{
+  padding: 20px 100px;
+}
+
+/* ----------------Movielist css --------- */
+
+.movies{
+  border: solid 2px black;
+  width: 80vw;
+  height: auto;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+flex-wrap: wrap;
+row-gap: 20px;
+}
+.movie{
+  width: 250px;
+  height: auto;
+  text-align:center ;
+  padding: 12px;
+  border: solid 1px black;
+  border-radius: 4px;
+  transition: 0.2s;
+}
+
+.movie img{
+  width: 100%;
+  height: 250px;
+  border-radius: 6px;
+}
+
+.movie:hover{
+transform:  scale(1.05);
+}
+.movies a{
+  color: black;
+  text-decoration: none;
+}
+.title{
+  text-align: center;
+  background-color: black;
+  color: white;
+  width: 80vw;
+  position: sticky;
+  top:50px;
+  margin: 5px 0px;
+  z-index: 100;
+}
+
+
+/* ----------------Moviedetails css --------- */
+.Heading{
+  background-color: burlywood;
+  width: 100vw;
+  height: auto;
+  box-sizing: border-box;
+  margin: 0px;
+  padding:0px;
+
+}
+#heading1 {
+  background-color: cadetblue;
+  color: black;
+  align-items: center;
+ margin-bottom: 10px;
+ position: sticky;
+ top: 50px;
+ z-index: 100;
+}
+.movie-details1 {
+  border: solid 2px black;
+  width: 95vw;
+  padding: 10px;
+ margin: 0px 20px;
+ text-align: left;
+}
+.movie-details1 img{
+  width: 450px;
+  height: 350px;
+  border: solid 2px black;
+}
+.movie-details1 iframe{
+  width: 450px;
+  height: 300px;
+  margin: 10px auto;
+}
+.movie-details1 button{
+  width: 200px;
+  height: 40px;
+  display: block;
+  margin-left: 60px;
+}
+
+/* ----------------Addmovies css --------- */
+.Addmovies-detail{
+  background-color: darkkhaki;
+  width: 100vw;
+  height: auto;
+  margin: 0px;
+}
+.Addmovies-detail h1{
+  background-color: lightgrey;
+  position: sticky;
+  top: 50px;
+  z-index: 10;
+}
+.form{
+  border: solid 2px black;
+  width: 600px;
+  height: auto;
+  border-radius: 20px;
+  background-color: darkseagreen;
+  color: black;
+  box-sizing: border-box;
+  padding: 30px;
+  margin: 30px  auto;
+  box-shadow: 0px 0px 30px black;
+  text-align: center;
+}
+.form input{
+  width: 90%;
+  height: 40px;
+  display: block;
+  margin: 10px auto;
+border-radius: 9px;
+padding: 0px 20px;
+text-align: left;
+border: 1px;
+
+}
+
+.form input:hover{
+  transform: scale(1.01);
+}
+
+.form input[type="checkbox"]{
+  width: 20px;
+  height: 20px;
+  display: inline;
+  margin: 10px auto;
+  
+}
+.form input[type="checkbox"]:hover{
+  transform: scale(1.1);
+
+}
+
+.form fieldset{
+  width: 90%;
+  height: auto;
+  text-align: center;
+  margin: 10px auto;
+  border-radius: 6px;
+  display: block;
+  
+} 
+
+.form textarea{
+  margin: 10px auto;
+  width: 90%;
+  height: auto;
+  display: block;
+border-radius: 10px;
+text-align: left;
+padding: 10px;
+
+}
+.form textarea:hover{ 
+  transform: scale(1.01);
+
+}
+.form button{
+  border: solid 1px black;
+   width: 100px;
+   height: 50px;
+   border-radius: 10px;
+}
+.form button:hover{
+  transform: scale(1.08);
+}
+
+/* -----releventmovies css ------- */
+
+.relevent{
+  margin:50px 50px ;
+ 
+  text-align: center;
+}
+
+
+.add-btn{
+  color: red;
+  background-color: transparent;
+  border: none;
+  font-size: 25px;
+ animation:  emptyHeart 0.5s;
+
+}
+@keyframes emptyHeart {
+  0%{
+    transform: scale(1);
+  }
+  60%{
+    transform: scale(1.5);
+
+  }
+  100%{
+    transform: scale(0);
+    
+  }
+}
+.remove-btn{
+  color: red;
+  background-color: transparent;
+  border: none;
+  font-size: 25px;
+ animation:  filledHeart 0.5s;
+}
+@keyframes filledHeart {
+  0%{
+    transform: scale(0);
+  }
+  60%{
+    transform: scale(1.2);
+
+  }
+  100%{
+    transform: scale(1);
+    
+  }
+}

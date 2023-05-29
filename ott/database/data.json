@@ -1,0 +1,200 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "moviename": "Kantara",
+      "hero": "Rishab shetty",
+      "heroine": "Sapthami Gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "telugu",
+        "tamil",
+        "hindi",
+        "malyalam"
+      ],
+      "genre": "Comedy drama divine",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": "9.5",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "moviename": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi sheety",
+      "director": "Prashanth Neel",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "action drama",
+      "poster": "https://wallpapers.com/images/featured/uvwzff0j1u9i4otf.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2021",
+      "rating": "9.4",
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their saviour, the government sees him as a threat to law and order; enemies are clamouring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy.",
+      "id": "2"
+    },
+    {
+      "moviename": "777 Charlie",
+      "hero": "Rakshit Shetty",
+      "heroine": "Sangeetha Sringeri",
+      "director": "Kiranraj K",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": " adventure comedy drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/19/777_Charlie_official_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/REqFOV2A7sI",
+      "release": "2018",
+      "rating": "9.2",
+      "synopsis": "A Labrador puppy escapes from the house of a breeder where many dogs have been caged and tortured. The pup continues its journey and finally reaches the Chinmaya colony, Satara where Dharma resides. Dharma is a loner in a colony, who does not socialize with anyone and is feared among the colony people. His life consists of mainly working at the factory, fights, booze, smoke and watching Charlie Chaplin shows on TV. He is an orphan, whose parents and sister died in a car crash caused by a dog and thereby leads a monotonous life. A musical fest at his colony makes the puppy scared and Dharma is enraged as his sleep is disturbed where he destroys the band instruments. The puppy views Dharma as her saviour and secretly follows him.",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "moviename": "apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "p vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Comedy drama horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": "10",
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": "5",
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": "8",
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "id": "6",
+      "moviename": "Kantara",
+      "hero": "Rishab",
+      "heroine": "sapthami gowda",
+      "director": "Rishab shetty",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "Comedy drama divine",
+      "poster": "https://static.toiimg.com/thumb/msid-97698497,width-1280,resizemode-4/97698497.jpg",
+      "trailer": "https://www.youtube.com/embed/ppYoIoW73PI",
+      "release": "2022",
+      "rating": "9.5",
+      "synopsis": "Set in a fictional village of Dakshina Kannada, Kantara is a visual grandeur that brings alive the traditional culture of Kambla and Bhootha Kola. It is believed that Demigods are the guardians and their energies encircle the village. In the story, there is a ripple when a battle of ego swirls along tradition and culture of the land. The soul of the story is on human and nature conflict in which Shiva is the rebellion and works against nature. There are intense conflicts he indulges in. In the end, a much awaiting loop leads to war between the villagers and the evil forces. Will Shiva, the protagonist of the film be able to reinstate peace and harmony in the village perceiving his existence?"
+    },
+    {
+      "id": "7",
+      "moviename": "KGF",
+      "hero": "Yash",
+      "heroine": "Sreenidhi sheety",
+      "director": "Rprashant",
+      "languages": [
+        "kannada",
+        "tamil",
+        "telugu",
+        "malayalam",
+        "hindi"
+      ],
+      "genre": "action drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/kgf-chapter-2-et00098647-08-04-2022-11-33-32.jpg",
+      "trailer": "https://www.youtube.com/embed/Qah9sSIXJqk",
+      "release": "2021",
+      "rating": "9.3",
+      "synopsis": "The blood-soaked land of Kolar Gold Fields (KGF) has a new overlord now - Rocky, whose name strikes fear in the heart of his foes. His allies look up to Rocky as their saviour, the government sees him as a threat to law and order; enemies are clamouring for revenge and conspiring for his downfall. Bloodier battles and darker days await as Rocky continues on his quest for unchallenged supremacy."
+    },
+    {
+      "id": "9",
+      "moviename": "apthamitra",
+      "hero": "vishuvardhan",
+      "heroine": "soudariya",
+      "director": "p vasu",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "Comedy drama horror",
+      "poster": "https://m.media-amazon.com/images/I/81duXR-7hOL._SL1420_.jpg",
+      "trailer": "https://www.youtube.com/embed/Gf-qmEbnL0I",
+      "release": "2004",
+      "rating": "10",
+      "synopsis": "stars Vishnuvardhan, Soundarya and Ramesh Arvind in the lead roles with Prema, Dwarakish and Avinash in supporting roles. The movie is a remake of the 1993 Malayalam film Manichithrathazhu.[4] The film was released on 27 August 2004 on Varalakshmi festival to positive reviews.[5]It ran for one-hundred days in theaters across Karnataka and was one of the highest-grossing films of the year.[6] Apthamitra was later followed by its sequel, Aptharakshaka (2010). P. Vasu also remade the film in Tamil in 2005 as Chandramukhi with Rajinikanth and Jyothika in the leads. Actress Soundarya is remembered for her performance in this film?"
+    },
+    {
+      "id": "10",
+      "moviename": "Love mocktail",
+      "hero": "Darling Krishna",
+      "heroine": "Milana Nagaraj , Amrutha",
+      "director": "Darling Krishna",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "romance drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/love-mocktail-et00124382-20-10-2020-09-58-18.jpg",
+      "trailer": "https://www.youtube.com/embed/IsEdANxZD3c",
+      "release": "2020",
+      "rating": "8",
+      "synopsis": "Love moctail is a romantic and fun film about the protagonist Adi`s quest for love. Life takes him through a roller coaster of a ride and he goes through varied experiences at several stages throughout his search for true love. Does Adi finally find his soul mate?"
+    },
+    {
+      "moviename": "Jackie",
+      "hero": " Puneeth Rajkumar",
+      "heroine": "Bhavana",
+      "director": "Duniya Soori",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "action drama",
+      "poster": "https://www.nowrunning.com/content/movie/2010/Jackie/stills/Jackie4.jpg",
+      "trailer": "https://www.youtube.com/embed/LotT1YKRYxQ",
+      "release": "2010",
+      "rating": "9.8",
+      "synopsis": "Janakirama aka Jackie is an 8th standard school dropout, who is living with his mother Jayamma and operates a flour mill in a village with his mother. Jackie dreams of making it big; but not by hard work and also is an expert card player and thinks he can repay all his debts with earnings from it. He does every job and hopes that he would one day make it big as a real estate dealer. He is talkative and uses the opportunities around him to eke out a living. In the locality where he lives, his friend Yashodha, who is a priest's daughter reveals that she is in love with a photo studio owner Parangi Seena who is actually a conduit for a human trafficker and asks Jackie to help her get married.",
+      "id": "6D_HyS2"
+    },
+    {
+      "moviename": "Operation Diamond Racket",
+      "hero": "Dr. Rajkumar",
+      "heroine": "Padmapriya",
+      "director": "\tDorai–Bhagavan",
+      "languages": [
+        "kannada"
+      ],
+      "genre": "action spy thriller",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/4/48/Operation_Diamond_Racket_DVD_cover.jpg",
+      "trailer": "https://www.youtube.com/embed/CVYuAfsSnlg",
+      "release": "1978",
+      "rating": "10",
+      "synopsis": "CID officer Prakash aka CID 999 solves the gold smuggling cases where the CID Chief mentions about increase in diamond smuggling and missing case of top scientists. Prakash traces the lead from his fellow officer Madhu and locates David, the local kingpin. He impersonates as David and traps Lalita, who has the diamonds. Prakash kills David and entrusts Lalita to Madhu. He goes to the hideout warehouse, where David was supposed to drop the diamonds. Prakash finds the diamonds and alerts the police.",
+      "id": "MINNGyp"
+    }
+  ]
+}
